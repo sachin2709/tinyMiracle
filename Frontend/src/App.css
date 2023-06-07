@@ -1,0 +1,22 @@
+.product-list{
+  text-align: center;
+  margin-top: 50px;
+}
+.product-list table thead tr th{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 150px;
+}
+.product-list table tbody tr td{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 150px;
+}
+.product-list table thead{
+  margin: 0;
+}
+.product-list table tbody{
+  margin: 0;
+}
